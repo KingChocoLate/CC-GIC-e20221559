@@ -52,6 +52,7 @@ Copy this template to `cc-lab-YOUR_ID/lab2/README.md` in your own repository. Fo
 ![New target healthy](images/14-target-replaced.png)
 
 About how many minutes passed between stopping `httpd` and the new instance becoming healthy?
+* About 2 minutes
 
 ---
 
